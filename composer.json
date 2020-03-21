@@ -13,5 +13,6 @@
             "StarkOne\\Contact\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
