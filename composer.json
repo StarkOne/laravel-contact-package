@@ -1,0 +1,17 @@
+{
+    "name": "starkone/contact",
+    "description": "test create laravel package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vlad Stark",
+            "email": "stark.pro40@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "StarkOne\\Contact\\": "src/"
+        }
+    },
+    "require": {}
+}
